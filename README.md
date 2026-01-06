@@ -1,2 +1,2 @@
 # template
-Template for last project
+Template for final project
